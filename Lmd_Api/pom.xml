@@ -11,8 +11,6 @@
 
     <artifactId>Lmd_Api</artifactId>
     <packaging>war</packaging>
-
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
