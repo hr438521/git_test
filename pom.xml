@@ -9,6 +9,7 @@
         <module>Lmd_Common</module>
         <module>Lmd_Eureka</module>
         <module>Lmd_ServerUser</module>
+        <module>Lmd_ServerUserPoint</module>
     </modules>
 
     <parent>
