@@ -1,4 +1,4 @@
-package com.qfedu.lmd.eureka;
+package com.sh.lmd.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.qfedu.lmd;
+package com.sh.lmd;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

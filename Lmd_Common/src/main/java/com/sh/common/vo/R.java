@@ -1,4 +1,4 @@
-package com.qfedu.common.vo;
+package com.sh.common.vo;
 
 import lombok.Data;
 

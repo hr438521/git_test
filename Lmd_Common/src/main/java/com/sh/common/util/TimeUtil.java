@@ -1,4 +1,4 @@
-package com.qfedu.common.util;
+package com.sh.common.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.qfedu.lmd.server.user;
+package com.sh.lmd.server.user;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
