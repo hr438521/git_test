@@ -152,6 +152,11 @@
                 <artifactId>Lmd_Common</artifactId>
                 <version>${lmd.version}</version>
             </dependency>
+            <dependency>
+                <groupId>com.sh</groupId>
+                <artifactId>Lmd_Entity</artifactId>
+                <version>${lmd.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
