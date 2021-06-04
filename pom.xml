@@ -39,7 +39,7 @@
         <zuul.version>1.4.7.RELEASE</zuul.version>
         <jedis.version>3.0.1</jedis.version>
         <fastjson.version>1.2.58</fastjson.version>
-        <httpclient.version>4.5.9</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <mail.version>1.4.7</mail.version>
         <pagehelperboot.version>1.2.12</pagehelperboot.version>
         <jwt.version>3.8.1</jwt.version>
